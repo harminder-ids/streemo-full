@@ -1,1 +1,1 @@
-# streemo-full
+# streemo-canoyn
